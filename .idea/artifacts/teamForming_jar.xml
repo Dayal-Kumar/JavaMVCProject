@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="teamForming:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/teamForming_jar</output-path>
+    <root id="archive" name="teamForming.jar">
+      <element id="module-output" name="teamForming" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/postgresql-42.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/checker-qual-3.5.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
